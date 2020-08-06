@@ -34,3 +34,4 @@
 |35|[ Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](./solutions/35.%20Search%20Insert%20Position.cpp)|12 ms|
 |36|[ Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](./solutions/36.%20Valid%20Sudoku.cpp)|76 ms|
 |39|[ Combination Sum](https://leetcode.com/problems/combination-sum/)|[C++](./solutions/39.%20Combination%20Sum.cpp)|N/A|
+|40|[ Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[C++](./solutions/40.%20Combination%20Sum%20II.cpp)|12 ms|
