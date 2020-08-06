@@ -47,3 +47,4 @@
 |50|[ Pow(x, n)](https://leetcode.com/problems/powx-n/)|[C++](./solutions/50.%20Pow(x%2C%20n).cpp)|N/A|
 |51|[ N-Queens](https://leetcode.com/problems/n-queens/)|[C++](./solutions/51.%20N-Queens.cpp)|16 ms|
 |52|[ N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[C++](./solutions/52.%20N-Queens%20II.cpp)|0 ms|
+|53|[ Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[C++](./solutions/53.%20Maximum%20Subarray.cpp)|16 ms|
