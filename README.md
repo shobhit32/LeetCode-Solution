@@ -37,3 +37,4 @@
 |39|[ Combination Sum](https://leetcode.com/problems/combination-sum/)|[C++](./solutions/39.%20Combination%20Sum.cpp)|N/A|
 |40|[ Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[C++](./solutions/40.%20Combination%20Sum%20II.cpp)|12 ms|
 |41|[ First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[C++](./solutions/41.%20First%20Missing%20Positive.cpp)|12 ms|
+|42|[ Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[C++](./solutions/42.%20Trapping%20Rain%20Water.cpp)|8 ms|
