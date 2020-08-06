@@ -28,3 +28,4 @@
 |27|[ Remove Element](https://leetcode.com/problems/remove-element/)|[C++](./solutions/27.%20Remove%20Element.cpp)|4 ms|
 |28|[ Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[C++](./solutions/28.%20Implement%20strStr().cpp)|12 ms|
 |29|[ Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[C++](./solutions/29.%20Divide%20Two%20Integers.cpp)|4 ms|
+|32|[ Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[C++](./solutions/32.%20Longest%20Valid%20Parentheses.cpp)|8 ms|
