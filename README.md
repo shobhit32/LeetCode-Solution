@@ -36,3 +36,4 @@
 |37|[ Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[C++](./solutions/37.%20Sudoku%20Solver.cpp)|48 ms|
 |39|[ Combination Sum](https://leetcode.com/problems/combination-sum/)|[C++](./solutions/39.%20Combination%20Sum.cpp)|N/A|
 |40|[ Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[C++](./solutions/40.%20Combination%20Sum%20II.cpp)|12 ms|
+|41|[ First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[C++](./solutions/41.%20First%20Missing%20Positive.cpp)|12 ms|
