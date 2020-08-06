@@ -52,3 +52,4 @@
 |55|[ Jump Game](https://leetcode.com/problems/jump-game/)|[C++](./solutions/55.%20Jump%20Game.cpp)|52 ms|
 |58|[ Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[C++](./solutions/58.%20Length%20of%20Last%20Word.cpp)|4 ms|
 |61|[ Rotate List](https://leetcode.com/problems/rotate-list/)|[C++](./solutions/61.%20Rotate%20List.cpp)|8 ms|
+|62|[ Unique Paths](https://leetcode.com/problems/unique-paths/)|[C++](./solutions/62.%20Unique%20Paths.cpp)|0 ms|
