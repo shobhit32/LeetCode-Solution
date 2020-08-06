@@ -29,3 +29,4 @@
 |28|[ Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[C++](./solutions/28.%20Implement%20strStr().cpp)|12 ms|
 |29|[ Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[C++](./solutions/29.%20Divide%20Two%20Integers.cpp)|4 ms|
 |32|[ Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[C++](./solutions/32.%20Longest%20Valid%20Parentheses.cpp)|8 ms|
+|34|[ Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[C++](./solutions/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.cpp)|24 ms|
