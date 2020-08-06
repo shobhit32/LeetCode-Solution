@@ -50,3 +50,4 @@
 |53|[ Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[C++](./solutions/53.%20Maximum%20Subarray.cpp)|16 ms|
 |54|[ Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[C++](./solutions/54.%20Spiral%20Matrix.cpp)|0 ms|
 |55|[ Jump Game](https://leetcode.com/problems/jump-game/)|[C++](./solutions/55.%20Jump%20Game.cpp)|52 ms|
+|58|[ Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[C++](./solutions/58.%20Length%20of%20Last%20Word.cpp)|4 ms|
